@@ -23,7 +23,7 @@ Python, Pytorch, 그리고 Librosa 함께 우리 음악 데이터를 분석해 �
 - https://github.com/Dohppak/Music_Genre_Classification_Pytorch
 - https://github.com/Dohppak/Music_Generation_Pytorch (Optional)
 ### Dataset
-[GTZAN](http://marsyas.info/downloads/datasets.html)
+[GTZAN Subset](https://drive.google.com/file/d/1rHw-1NR_Taoz6kTfJ4MPR5YTxyoCed1W/view)
 ```
 $ cd gtzan
 $ ls 
